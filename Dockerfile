@@ -1,4 +1,4 @@
-FROM alpine:3.18
+FROM alpine:3.21
 MAINTAINER marco@gitma.de
 
 #install necessary packages
